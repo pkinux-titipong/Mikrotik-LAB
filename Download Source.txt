@@ -1,0 +1,8 @@
+Virtual Box
+---- https://www.virtualbox.org/
+
+Mikrotik router OS
+---- https://mikrotik.com/download
+
+Windows 7 
+---- https://developer.microsoft.com/en-us/microsoft-edge/tools/vms/

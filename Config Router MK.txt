@@ -1,0 +1,8 @@
+Config Router MK
+
+- set DHCP Client >> IP > DHCP > Add > Interface1
+- set IP for LAN >> IP > Address > New > set IP 192.168.10.1/24 > interface Lan
+- set DHCP Server for LAN >> IP DHCP Server > DHCP setup > interface lan > next til finnished
+- set Firewall > IP > Firewall > NAT > Add > out ether1 > Action > masquerade 
+
+
